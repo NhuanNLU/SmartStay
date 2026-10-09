@@ -1,0 +1,16 @@
+<Solution>
+  <Folder Name="/Solution Items/">
+    <File Path=".editorconfig" />
+    <File Path=".gitignore" />
+  </Folder>
+  <Folder Name="/src/">
+    <Project Path="src/SmartStay.API/SmartStay.API.csproj" />
+    <Project Path="src/SmartStay.Application/SmartStay.Application.csproj" />
+    <Project Path="src/SmartStay.Contract/SmartStay.Contract.csproj" />
+    <Project Path="src/SmartStay.Domain/SmartStay.Domain.csproj" />
+    <Project Path="src/SmartStay.Infrastructure/SmartStay.Infrastructure.csproj" Id="6b44e9d1-726f-4dec-a181-4390a88323c5" />
+    <Project Path="src/SmartStay.Persistence/SmartStay.Persistence.csproj" Id="23b9c421-d6ae-4bec-b786-d98e18d3a26b" />
+    <Project Path="src/SmartStay.Presentation/SmartStay.Presentation.csproj" Id="8ab1b35e-d7fb-4dee-9d70-4c7dafd0e4a6" />
+  </Folder>
+  <Folder Name="/test/" />
+</Solution>
