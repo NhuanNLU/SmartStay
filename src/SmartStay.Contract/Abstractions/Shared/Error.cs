@@ -15,7 +15,6 @@
         }
         public static readonly Error None = new(string.Empty);
         public static readonly Error NullValue = new("Error.NullValue");
-
         public static Error NotFound(string message) => new Error(message, 404);
         public static Error BadRequest(string message) => new Error(message, 400);
         public static Error Unauthorized(string message) => new Error(message, 401);
