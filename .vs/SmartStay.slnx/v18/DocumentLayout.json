@@ -3,8 +3,20 @@
   "WorkspaceRootPath": "D:\\MyProject\\SmartStay\\",
   "Documents": [
     {
+      "AbsoluteMoniker": "D:0:0:{BC4FDCEA-9FF3-2520-B026-7660227EC71A}|src\\SmartStay.Contract\\SmartStay.Contract.csproj|d:\\myproject\\smartstay\\src\\smartstay.contract\\abstractions\\shared\\result.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{BC4FDCEA-9FF3-2520-B026-7660227EC71A}|src\\SmartStay.Contract\\SmartStay.Contract.csproj|solutionrelative:src\\smartstay.contract\\abstractions\\shared\\result.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
       "AbsoluteMoniker": "D:0:0:{BC4FDCEA-9FF3-2520-B026-7660227EC71A}|src\\SmartStay.Contract\\SmartStay.Contract.csproj|d:\\myproject\\smartstay\\src\\smartstay.contract\\abstractions\\shared\\error.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{BC4FDCEA-9FF3-2520-B026-7660227EC71A}|src\\SmartStay.Contract\\SmartStay.Contract.csproj|solutionrelative:src\\smartstay.contract\\abstractions\\shared\\error.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{BC4FDCEA-9FF3-2520-B026-7660227EC71A}|src\\SmartStay.Contract\\SmartStay.Contract.csproj|d:\\myproject\\smartstay\\src\\smartstay.contract\\abstractions\\shared\\resultt.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{BC4FDCEA-9FF3-2520-B026-7660227EC71A}|src\\SmartStay.Contract\\SmartStay.Contract.csproj|solutionrelative:src\\smartstay.contract\\abstractions\\shared\\resultt.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{31ABFE3B-0AE8-7FBE-269A-D58199ADFE55}|src\\SmartStay.Application\\SmartStay.Application.csproj|d:\\myproject\\smartstay\\src\\smartstay.application\\class1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{31ABFE3B-0AE8-7FBE-269A-D58199ADFE55}|src\\SmartStay.Application\\SmartStay.Application.csproj|solutionrelative:src\\smartstay.application\\class1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     }
   ],
   "DocumentGroupContainers": [
@@ -14,7 +26,7 @@
       "DocumentGroups": [
         {
           "DockedWidth": 200,
-          "SelectedChildIndex": 2,
+          "SelectedChildIndex": 4,
           "Children": [
             {
               "$type": "Bookmark",
@@ -26,13 +38,52 @@
             },
             {
               "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "Class1.cs",
+              "DocumentMoniker": "D:\\MyProject\\SmartStay\\src\\SmartStay.Application\\Class1.cs",
+              "RelativeDocumentMoniker": "src\\SmartStay.Application\\Class1.cs",
+              "ToolTip": "D:\\MyProject\\SmartStay\\src\\SmartStay.Application\\Class1.cs",
+              "RelativeToolTip": "src\\SmartStay.Application\\Class1.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-10-09T12:47:19.919Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "ResultT.cs",
+              "DocumentMoniker": "D:\\MyProject\\SmartStay\\src\\SmartStay.Contract\\Abstractions\\Shared\\ResultT.cs",
+              "RelativeDocumentMoniker": "src\\SmartStay.Contract\\Abstractions\\Shared\\ResultT.cs",
+              "ToolTip": "D:\\MyProject\\SmartStay\\src\\SmartStay.Contract\\Abstractions\\Shared\\ResultT.cs",
+              "RelativeToolTip": "src\\SmartStay.Contract\\Abstractions\\Shared\\ResultT.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAYAAABOAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-10-09T12:43:51.758Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
               "DocumentIndex": 0,
+              "Title": "Result.cs",
+              "DocumentMoniker": "D:\\MyProject\\SmartStay\\src\\SmartStay.Contract\\Abstractions\\Shared\\Result.cs",
+              "RelativeDocumentMoniker": "src\\SmartStay.Contract\\Abstractions\\Shared\\Result.cs",
+              "ToolTip": "D:\\MyProject\\SmartStay\\src\\SmartStay.Contract\\Abstractions\\Shared\\Result.cs",
+              "RelativeToolTip": "src\\SmartStay.Contract\\Abstractions\\Shared\\Result.cs",
+              "ViewState": "AgIAABMAAAAAAAAAAAAcwBgAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-10-09T12:39:48.107Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
               "Title": "Error.cs",
               "DocumentMoniker": "D:\\MyProject\\SmartStay\\src\\SmartStay.Contract\\Abstractions\\Shared\\Error.cs",
               "RelativeDocumentMoniker": "src\\SmartStay.Contract\\Abstractions\\Shared\\Error.cs",
               "ToolTip": "D:\\MyProject\\SmartStay\\src\\SmartStay.Contract\\Abstractions\\Shared\\Error.cs",
               "RelativeToolTip": "src\\SmartStay.Contract\\Abstractions\\Shared\\Error.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAYAAAAAAAAAAAAAAA==",
+              "ViewState": "AgIAAAgAAAAAAAAAAAAwwBgAAAABAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2026-10-09T12:15:17.034Z",
               "EditorCaption": ""
