@@ -12,5 +12,5 @@
             : throw new InvalidOperationException("Cannot access the value of a failed result.");
         public static implicit operator Result<T>(T value) => Success(value);
     }
-}
 
+}
