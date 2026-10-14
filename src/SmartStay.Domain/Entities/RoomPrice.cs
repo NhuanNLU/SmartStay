@@ -3,7 +3,7 @@ using SmartStay.Domain.Enum;
 
 namespace SmartStay.Domain.Entities
 {
-    public class RoomPrice: DomainEntityAuditSoftDelete<int>
+    public class RoomPrice : DomainEntityAuditSoftDelete<int>
     {
         public int RoomId { get; set; }
         public required RoomPriceStatus Status { get; set; }
