@@ -3,6 +3,42 @@
   "WorkspaceRootPath": "D:\\MyProject\\SmartStay\\",
   "Documents": [
     {
+      "AbsoluteMoniker": "D:0:0:{3F56079B-DFBC-2709-19D7-641B597E7FAD}|src\\SmartStay.Domain\\SmartStay.Domain.csproj|d:\\myproject\\smartstay\\src\\smartstay.domain\\entities\\roomprice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{3F56079B-DFBC-2709-19D7-641B597E7FAD}|src\\SmartStay.Domain\\SmartStay.Domain.csproj|solutionrelative:src\\smartstay.domain\\entities\\roomprice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{3F56079B-DFBC-2709-19D7-641B597E7FAD}|src\\SmartStay.Domain\\SmartStay.Domain.csproj|d:\\myproject\\smartstay\\src\\smartstay.domain\\entities\\building.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{3F56079B-DFBC-2709-19D7-641B597E7FAD}|src\\SmartStay.Domain\\SmartStay.Domain.csproj|solutionrelative:src\\smartstay.domain\\entities\\building.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{3F56079B-DFBC-2709-19D7-641B597E7FAD}|src\\SmartStay.Domain\\SmartStay.Domain.csproj|d:\\myproject\\smartstay\\src\\smartstay.domain\\entities\\branchmanager.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{3F56079B-DFBC-2709-19D7-641B597E7FAD}|src\\SmartStay.Domain\\SmartStay.Domain.csproj|solutionrelative:src\\smartstay.domain\\entities\\branchmanager.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{3F56079B-DFBC-2709-19D7-641B597E7FAD}|src\\SmartStay.Domain\\SmartStay.Domain.csproj|d:\\myproject\\smartstay\\src\\smartstay.domain\\entities\\branch.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{3F56079B-DFBC-2709-19D7-641B597E7FAD}|src\\SmartStay.Domain\\SmartStay.Domain.csproj|solutionrelative:src\\smartstay.domain\\entities\\branch.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{3F56079B-DFBC-2709-19D7-641B597E7FAD}|src\\SmartStay.Domain\\SmartStay.Domain.csproj|d:\\myproject\\smartstay\\src\\smartstay.domain\\entities\\profile.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{3F56079B-DFBC-2709-19D7-641B597E7FAD}|src\\SmartStay.Domain\\SmartStay.Domain.csproj|solutionrelative:src\\smartstay.domain\\entities\\profile.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{3F56079B-DFBC-2709-19D7-641B597E7FAD}|src\\SmartStay.Domain\\SmartStay.Domain.csproj|d:\\myproject\\smartstay\\src\\smartstay.domain\\entities\\role.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{3F56079B-DFBC-2709-19D7-641B597E7FAD}|src\\SmartStay.Domain\\SmartStay.Domain.csproj|solutionrelative:src\\smartstay.domain\\entities\\role.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{3F56079B-DFBC-2709-19D7-641B597E7FAD}|src\\SmartStay.Domain\\SmartStay.Domain.csproj|d:\\myproject\\smartstay\\src\\smartstay.domain\\entities\\roomviewing.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{3F56079B-DFBC-2709-19D7-641B597E7FAD}|src\\SmartStay.Domain\\SmartStay.Domain.csproj|solutionrelative:src\\smartstay.domain\\entities\\roomviewing.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{3F56079B-DFBC-2709-19D7-641B597E7FAD}|src\\SmartStay.Domain\\SmartStay.Domain.csproj|d:\\myproject\\smartstay\\src\\smartstay.domain\\entities\\userrole.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{3F56079B-DFBC-2709-19D7-641B597E7FAD}|src\\SmartStay.Domain\\SmartStay.Domain.csproj|solutionrelative:src\\smartstay.domain\\entities\\userrole.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{3F56079B-DFBC-2709-19D7-641B597E7FAD}|src\\SmartStay.Domain\\SmartStay.Domain.csproj|d:\\myproject\\smartstay\\src\\smartstay.domain\\entities\\user.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{3F56079B-DFBC-2709-19D7-641B597E7FAD}|src\\SmartStay.Domain\\SmartStay.Domain.csproj|solutionrelative:src\\smartstay.domain\\entities\\user.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
       "AbsoluteMoniker": "D:0:0:{BC4FDCEA-9FF3-2520-B026-7660227EC71A}|src\\SmartStay.Contract\\SmartStay.Contract.csproj|d:\\myproject\\smartstay\\src\\smartstay.contract\\abstractions\\shared\\resultt.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{BC4FDCEA-9FF3-2520-B026-7660227EC71A}|src\\SmartStay.Contract\\SmartStay.Contract.csproj|solutionrelative:src\\smartstay.contract\\abstractions\\shared\\resultt.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     }
@@ -27,6 +63,123 @@
             {
               "$type": "Document",
               "DocumentIndex": 0,
+              "Title": "RoomPrice.cs",
+              "DocumentMoniker": "D:\\MyProject\\SmartStay\\src\\SmartStay.Domain\\Entities\\RoomPrice.cs",
+              "RelativeDocumentMoniker": "src\\SmartStay.Domain\\Entities\\RoomPrice.cs",
+              "ToolTip": "D:\\MyProject\\SmartStay\\src\\SmartStay.Domain\\Entities\\RoomPrice.cs",
+              "RelativeToolTip": "src\\SmartStay.Domain\\Entities\\RoomPrice.cs",
+              "ViewState": "AgIAAAcAAAAAAAAAAAA1wAsAAAAvAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-10-14T15:50:01.484Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Building.cs",
+              "DocumentMoniker": "D:\\MyProject\\SmartStay\\src\\SmartStay.Domain\\Entities\\Building.cs",
+              "RelativeDocumentMoniker": "src\\SmartStay.Domain\\Entities\\Building.cs",
+              "ToolTip": "D:\\MyProject\\SmartStay\\src\\SmartStay.Domain\\Entities\\Building.cs",
+              "RelativeToolTip": "src\\SmartStay.Domain\\Entities\\Building.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-10-14T15:49:41.623Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "BranchManager.cs",
+              "DocumentMoniker": "D:\\MyProject\\SmartStay\\src\\SmartStay.Domain\\Entities\\BranchManager.cs",
+              "RelativeDocumentMoniker": "src\\SmartStay.Domain\\Entities\\BranchManager.cs",
+              "ToolTip": "D:\\MyProject\\SmartStay\\src\\SmartStay.Domain\\Entities\\BranchManager.cs",
+              "RelativeToolTip": "src\\SmartStay.Domain\\Entities\\BranchManager.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-10-14T15:49:31.837Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "Branch.cs",
+              "DocumentMoniker": "D:\\MyProject\\SmartStay\\src\\SmartStay.Domain\\Entities\\Branch.cs",
+              "RelativeDocumentMoniker": "src\\SmartStay.Domain\\Entities\\Branch.cs",
+              "ToolTip": "D:\\MyProject\\SmartStay\\src\\SmartStay.Domain\\Entities\\Branch.cs",
+              "RelativeToolTip": "src\\SmartStay.Domain\\Entities\\Branch.cs",
+              "ViewState": "AgIAAAUAAAAAAAAAAAAxwAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-10-14T15:49:19.13Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "Profile.cs",
+              "DocumentMoniker": "D:\\MyProject\\SmartStay\\src\\SmartStay.Domain\\Entities\\Profile.cs",
+              "RelativeDocumentMoniker": "src\\SmartStay.Domain\\Entities\\Profile.cs",
+              "ToolTip": "D:\\MyProject\\SmartStay\\src\\SmartStay.Domain\\Entities\\Profile.cs",
+              "RelativeToolTip": "src\\SmartStay.Domain\\Entities\\Profile.cs",
+              "ViewState": "AgIAAAsAAAAAAAAAAAAIwAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-10-14T15:48:47.247Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "Role.cs",
+              "DocumentMoniker": "D:\\MyProject\\SmartStay\\src\\SmartStay.Domain\\Entities\\Role.cs",
+              "RelativeDocumentMoniker": "src\\SmartStay.Domain\\Entities\\Role.cs",
+              "ToolTip": "D:\\MyProject\\SmartStay\\src\\SmartStay.Domain\\Entities\\Role.cs",
+              "RelativeToolTip": "src\\SmartStay.Domain\\Entities\\Role.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-10-14T15:48:37.17Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "RoomViewing.cs",
+              "DocumentMoniker": "D:\\MyProject\\SmartStay\\src\\SmartStay.Domain\\Entities\\RoomViewing.cs",
+              "RelativeDocumentMoniker": "src\\SmartStay.Domain\\Entities\\RoomViewing.cs",
+              "ToolTip": "D:\\MyProject\\SmartStay\\src\\SmartStay.Domain\\Entities\\RoomViewing.cs",
+              "RelativeToolTip": "src\\SmartStay.Domain\\Entities\\RoomViewing.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-10-14T15:48:33.302Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "UserRole.cs",
+              "DocumentMoniker": "D:\\MyProject\\SmartStay\\src\\SmartStay.Domain\\Entities\\UserRole.cs",
+              "RelativeDocumentMoniker": "src\\SmartStay.Domain\\Entities\\UserRole.cs",
+              "ToolTip": "D:\\MyProject\\SmartStay\\src\\SmartStay.Domain\\Entities\\UserRole.cs",
+              "RelativeToolTip": "src\\SmartStay.Domain\\Entities\\UserRole.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-10-14T15:48:26.23Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "User.cs",
+              "DocumentMoniker": "D:\\MyProject\\SmartStay\\src\\SmartStay.Domain\\Entities\\User.cs",
+              "RelativeDocumentMoniker": "src\\SmartStay.Domain\\Entities\\User.cs",
+              "ToolTip": "D:\\MyProject\\SmartStay\\src\\SmartStay.Domain\\Entities\\User.cs",
+              "RelativeToolTip": "src\\SmartStay.Domain\\Entities\\User.cs",
+              "ViewState": "AgIAAAsAAAAAAAAAAAAIwAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-10-14T15:48:08.16Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 9,
               "Title": "ResultT.cs",
               "DocumentMoniker": "D:\\MyProject\\SmartStay\\src\\SmartStay.Contract\\Abstractions\\Shared\\ResultT.cs",
               "RelativeDocumentMoniker": "src\\SmartStay.Contract\\Abstractions\\Shared\\ResultT.cs",

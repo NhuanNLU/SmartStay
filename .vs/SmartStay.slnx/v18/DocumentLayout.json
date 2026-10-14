@@ -68,7 +68,7 @@
               "RelativeDocumentMoniker": "src\\SmartStay.Domain\\Entities\\RoomPrice.cs",
               "ToolTip": "D:\\MyProject\\SmartStay\\src\\SmartStay.Domain\\Entities\\RoomPrice.cs",
               "RelativeToolTip": "src\\SmartStay.Domain\\Entities\\RoomPrice.cs",
-              "ViewState": "AgIAAAcAAAAAAAAAAAA1wAsAAAAvAAAAAAAAAA==",
+              "ViewState": "AgIAAA8AAAAAAAAAAAAmwAsAAAAvAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2026-10-14T15:50:01.484Z",
               "EditorCaption": ""
@@ -83,8 +83,7 @@
               "RelativeToolTip": "src\\SmartStay.Domain\\Entities\\Building.cs",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2026-10-14T15:49:41.623Z",
-              "EditorCaption": ""
+              "WhenOpened": "2026-10-14T15:49:41.623Z"
             },
             {
               "$type": "Document",
@@ -96,8 +95,7 @@
               "RelativeToolTip": "src\\SmartStay.Domain\\Entities\\BranchManager.cs",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2026-10-14T15:49:31.837Z",
-              "EditorCaption": ""
+              "WhenOpened": "2026-10-14T15:49:31.837Z"
             },
             {
               "$type": "Document",
@@ -109,8 +107,7 @@
               "RelativeToolTip": "src\\SmartStay.Domain\\Entities\\Branch.cs",
               "ViewState": "AgIAAAUAAAAAAAAAAAAxwAAAAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2026-10-14T15:49:19.13Z",
-              "EditorCaption": ""
+              "WhenOpened": "2026-10-14T15:49:19.13Z"
             },
             {
               "$type": "Document",
@@ -122,8 +119,7 @@
               "RelativeToolTip": "src\\SmartStay.Domain\\Entities\\Profile.cs",
               "ViewState": "AgIAAAsAAAAAAAAAAAAIwAAAAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2026-10-14T15:48:47.247Z",
-              "EditorCaption": ""
+              "WhenOpened": "2026-10-14T15:48:47.247Z"
             },
             {
               "$type": "Document",
@@ -135,8 +131,7 @@
               "RelativeToolTip": "src\\SmartStay.Domain\\Entities\\Role.cs",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2026-10-14T15:48:37.17Z",
-              "EditorCaption": ""
+              "WhenOpened": "2026-10-14T15:48:37.17Z"
             },
             {
               "$type": "Document",
@@ -148,8 +143,7 @@
               "RelativeToolTip": "src\\SmartStay.Domain\\Entities\\RoomViewing.cs",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2026-10-14T15:48:33.302Z",
-              "EditorCaption": ""
+              "WhenOpened": "2026-10-14T15:48:33.302Z"
             },
             {
               "$type": "Document",
@@ -161,8 +155,7 @@
               "RelativeToolTip": "src\\SmartStay.Domain\\Entities\\UserRole.cs",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2026-10-14T15:48:26.23Z",
-              "EditorCaption": ""
+              "WhenOpened": "2026-10-14T15:48:26.23Z"
             },
             {
               "$type": "Document",
@@ -174,8 +167,7 @@
               "RelativeToolTip": "src\\SmartStay.Domain\\Entities\\User.cs",
               "ViewState": "AgIAAAsAAAAAAAAAAAAIwAAAAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2026-10-14T15:48:08.16Z",
-              "EditorCaption": ""
+              "WhenOpened": "2026-10-14T15:48:08.16Z"
             },
             {
               "$type": "Document",
@@ -187,8 +179,7 @@
               "RelativeToolTip": "src\\SmartStay.Contract\\Abstractions\\Shared\\ResultT.cs",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAAA8AAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2026-10-09T17:31:43.368Z",
-              "EditorCaption": ""
+              "WhenOpened": "2026-10-09T17:31:43.368Z"
             }
           ]
         }
