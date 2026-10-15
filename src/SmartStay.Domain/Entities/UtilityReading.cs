@@ -6,12 +6,12 @@ namespace SmartStay.Domain.Entities
     {
         public int RoomId { get; set; }
         public Room Room { get; set; }
-        public decimal OldElectric { get; set; }
-        public decimal NewElectric { get; set; }
-        public decimal OldWater { get; set; }
-        public decimal NewWater { get; set; }
-        public decimal ElectricUnitPrice { get; set; }
-        public decimal WaterUnitPrice { get; set; }
-        public DateTime RecordingDate { get; set; }
+        public required decimal OldElectric { get; set; }
+        public required decimal NewElectric { get; set; }
+        public required decimal OldWater { get; set; }
+        public required decimal NewWater { get; set; }
+        public required decimal ElectricUnitPrice { get; set; }
+        public required decimal WaterUnitPrice { get; set; }
+        public required DateTime RecordingDate { get; set; }
     }
 }
