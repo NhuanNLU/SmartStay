@@ -3,7 +3,7 @@ using System.Text.Json;
 
 namespace SmartStay.API.Middlewares
 {
-    public sealed class ExceptionHandlingMiddleware
+    public sealed class ExceptionHandlingMiddleware : IMiddleware
     {
         private readonly ILogger<ExceptionHandlingMiddleware> _logger;
 

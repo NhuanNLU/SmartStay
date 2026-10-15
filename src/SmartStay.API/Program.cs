@@ -1,3 +1,4 @@
+using SmartStay.API.Extentions;
 using SmartStay.API.Middlewares;
 using SmartStay.Persistence.DependencyInjection.Extensions;
 
@@ -8,14 +9,18 @@ var builder = WebApplication.CreateBuilder(args);
 builder.Services.AddControllers();
 // Learn more about configuring OpenAPI at https://aka.ms/aspnet/openapi
 builder.Services.AddOpenApi();
+builder.Services.AddSwaggerServices();
+builder.Services.AddTransient<ExceptionHandlingMiddleware>();
 builder.Services.AddAppDbContext(builder.Configuration);
 builder.Services.AddUnitOfWork();
 var app = builder.Build();
+
 app.UseMiddleware<ExceptionHandlingMiddleware>();
 // Configure the HTTP request pipeline.
 if (app.Environment.IsDevelopment())
 {
     app.MapOpenApi();
+    app.UseSwaggerAPI();
 }
 
 app.UseHttpsRedirection();
