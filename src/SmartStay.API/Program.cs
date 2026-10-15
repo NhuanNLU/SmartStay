@@ -1,3 +1,4 @@
+using SmartStay.API.Middlewares;
 using SmartStay.Persistence.DependencyInjection.Extensions;
 
 var builder = WebApplication.CreateBuilder(args);
@@ -10,7 +11,7 @@ builder.Services.AddOpenApi();
 builder.Services.AddAppDbContext(builder.Configuration);
 builder.Services.AddUnitOfWork();
 var app = builder.Build();
-
+app.UseMiddleware<ExceptionHandlingMiddleware>();
 // Configure the HTTP request pipeline.
 if (app.Environment.IsDevelopment())
 {
@@ -18,6 +19,8 @@ if (app.Environment.IsDevelopment())
 }
 
 app.UseHttpsRedirection();
+
+app.UseAuthentication();
 
 app.UseAuthorization();
 
