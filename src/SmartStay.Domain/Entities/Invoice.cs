@@ -11,7 +11,7 @@ namespace SmartStay.Domain.Entities
         public User User { get; set; }
         public int RoomId { get; set; }
         public Room Room { get; set; }
-        public InvoiceStatus Status { get; set; }
+        public InvoiceStatus Status { get; set; } = InvoiceStatus.Draft;
         public string? Note { get; set; }
     }
 }

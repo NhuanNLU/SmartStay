@@ -6,6 +6,6 @@ namespace SmartStay.Domain.Entities
     {
         public int RoomId { get; set; }
         public required string ImageUrl { get; set; }
-        public Room Room { get; set; } = null!;
+        public Room Room { get; set; }
     }
 }

@@ -16,5 +16,7 @@ namespace SmartStay.Domain.Entities
         public ICollection<RoomManager> RoomManagers { get; set; } = new List<RoomManager>();
         public ICollection<RoomViewing> RoomViewings { get; set; } = new List<RoomViewing>();
         public ICollection<UserRole> UserRoles { get; set; } = new List<UserRole>();
+        public ICollection<Invoice> Invoices { get; set; } = new List<Invoice>();
+        public ICollection<Contract> Contracts { get; set; } = new List<Contract>();
     }
 }

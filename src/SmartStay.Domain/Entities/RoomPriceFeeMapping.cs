@@ -2,7 +2,7 @@
 
 namespace SmartStay.Domain.Entities
 {
-    public class RoomPriceFeeMapping : DomainEntityAuditSoftDelete<int>
+    public class RoomPriceFeeMapping : AuditSoftDelete
     {
         public int RoomId { get; set; }
         public Room Room { get; set; }
